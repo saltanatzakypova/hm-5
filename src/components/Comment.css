@@ -1,0 +1,11 @@
+.UserInfo img {
+  border-radius: 50%;
+  width: 130px;
+  height: 130px;
+}
+.Comment {
+  background-color: aqua;
+}
+.Comment-second {
+  background-color: bisque;
+}
